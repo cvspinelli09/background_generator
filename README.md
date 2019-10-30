@@ -1,2 +1,3 @@
 # background_generator
-used for practice git purposes
+
+Totally built in Javascript.
